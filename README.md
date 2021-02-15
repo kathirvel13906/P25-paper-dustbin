@@ -1,1 +1,1 @@
-# P25-paper-dustbin
+# CP-2
